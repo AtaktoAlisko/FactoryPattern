@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Instrument {
+public interface Instrument {
+    void play();
 }
